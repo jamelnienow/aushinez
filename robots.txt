@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ughoht.daiweiyang.com/sitemap.xml
